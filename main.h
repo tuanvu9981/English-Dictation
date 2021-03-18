@@ -3,27 +3,23 @@
 
 #include "gtk/gtk.h"
 #include <stdio.h>
-#include "sqlite3.h"
 
-sqlite3 *db;
+FILE *eng_opn;
+FILE *viet_opn;
 GtkBuilder *builder;
 
 //intro_window;
 GtkWidget *intro_window;
-GtkEntry *unit_entry;
-GtkEntry *vocab_start_entry;
 
-//announce_window = RIGHT WINDOW
-GtkWidget *announce_wdn;
-
-//Wrong window
-GtkWidget *wrong_wdn;
-GtkLabel *show_answer;
-GtkLabel *show_read;
+//right_annouce & //wrong_annouce
+GtkWidget *right_announce;
+GtkWidget *wrong_announce;
 
 //working window
 GtkWidget *working_wdn;
 GtkEntry *entry_word;
 GtkLabel *show_viet_word;
 
+//warning
+GtkWidget *lack_word_wdn;
 #endif
