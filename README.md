@@ -1,4 +1,5 @@
 # English-Dictation
+# NEW VERSION. Using SQLite
 App to check English dictation. Made with Glade, C, SQLite &amp; Makefile 
 
 How to run? After cloning/downing this repository: 
