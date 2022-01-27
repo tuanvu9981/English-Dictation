@@ -12,11 +12,11 @@
 ### Some images about this mini-project
 
 <p float="center">
-  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/main.jpg" width="500" height="400"/>
+  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/main.jpg" width="400" height="300"/>
 
-  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/input.jpg" width="500" height="400"/>
+  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/input.jpg" width="400" height="300"/>
 
-  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/correct.jpg" width="500" height="400"/>
+  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/correct.jpg" width="400" height="300"/>
 
-  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/wrong.jpg" width="500" height="400"/>
+  <img src="https://github.com/tuanvu0801junda/English-Dictation/blob/master/screenshot/wrong.jpg" width="400" height="300"/>
 </p>
